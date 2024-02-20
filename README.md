@@ -5,6 +5,8 @@ To host you can use either<br>
 <b>Github Pages: </b> https://pages.github.com
 <br> or <br>
 <b>Netlify: </b> https://netlify.app
+<br> or <br>
+<b>Infinityfree: </b> https://www.infinityfree.com/
 
 # Social Links
 Almost all social account logo and css classed defined
